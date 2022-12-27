@@ -1,0 +1,5 @@
+1) Img path /img/ = directly simpley remove DBE
+2) Baki badhe parent ma java= ../
+3) Search ma same re chhe etle = ./
+4) db_connect = ma 4 changes 
+Above Changes b/w localhost & Hostinge
